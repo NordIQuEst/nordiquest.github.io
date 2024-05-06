@@ -39,14 +39,14 @@ To achieve this level of precision, Dr. Dobsicek utilized QAL 9000’s cloud RES
 
 {% include figure image_path="/assets/images/eu-digital-assembly-qal9000-live-tuneup.png" alt="A Screenshot of the live tune up of QAL 9000." caption="A Screenshot of the live tune up of QAL 9000. Credit: Martin Ahindura" %}
 
-Of note is that the calibration was performed concurrently on a significant portion of the processor, focusing on12 out of the 25 total qubits available on the QAL 9000 chip. 
+Of note is that the calibration was performed concurrently on a significant portion of the processor, focusing on 12 out of the 25 total qubits available on the QAL 9000 chip. 
 
-The state discrimination has improved after the recalibration; Less blue dots, |1> state, we present in the red point-could. 
+The state discrimination has improved after the recalibration; fewer blue dots, `|1>` state, we present in the red point-cloud. 
 
 After the successful recalibration, Dr. Dobsicek demonstrated a basic machine 
 learning algorithm tailored to classify points within a two-dimensional plane. The algorithm was based on the concepts described in [1]. 
 
-{% include figure image_path="/assets/images/eu-digital-assembly-quantum-neural-network.png" alt="Diagram showing A quantum neural network in QAL 9000 with a classical optimizer in LUMI." caption="A quantum neural network in QAL 9000 with a classical optimizer in LUMI. Credit: Dr. Miroslav dobsicek" %}
+{% include figure image_path="/assets/images/eu-digital-assembly-quantum-neural-network.png" alt="Diagram showing A quantum neural network in QAL 9000 with a classical optimizer in LUMI." caption="A quantum neural network in QAL 9000 with a classical optimizer in LUMI. Credit: Dr. Miroslav Dobsicek" %}
 
 Before the demo, a neural network was encoded into the quantum processor. LUMI ran a classical optimization loop which adjusted the weights in the neural network during the training phase. 
 
