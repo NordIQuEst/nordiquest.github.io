@@ -30,6 +30,11 @@ Alberto Lanzanova gave a brief overview of the project activities and where it i
 
 The conference highlight was the workshop facilitated by Jake Muff. In a directly-to-action introduction to quantum computing, the participants were able to experience the NordIQuEst infrastructure by running basic tutorials on the VTT quantum computer [Helmi](https://www.vttresearch.com/en/news-and-ideas/finland-opens-quantum-computer-research-purposes-fusion-quantum-computing-and), through the [LUMI EuroHPC supercomputer](https://www.lumi-supercomputer.eu/). Entanglements were created and errors mitigated, in what was a first direct experience with quantum computing for many of the participants.
 
+Participants were able to submit their first job to VTT's 5 qubit quantum computer Helmi via the LUMI web interface. A focus of the workshop was highlighting what is needed to run on a real quantum computer versus using a simulator. Participants also had the opportunity to see a Variational Quantum Eigensolver (VQE) run on Helmi in real time, demonstrating current hybrid quantum computing in practice!
+
+{% include figure image_path="/assets/images/neic_conference_2024_jake_muff.jpeg" alt="Jake Muff giving a workshop introduction LUMI and Helmi" caption="Jake Muff giving a workshop introducing LUMI and Helmi" %}
+
+
 For those that could not join us in Tallinn, despair not, more training activities for 2024 will soon be announced!
 
 Additional information
