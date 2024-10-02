@@ -32,6 +32,12 @@ feature_row:
     url: "/publications"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/posts-icon.png
+    title: "FAQ"
+    excerpt: "Frequently asked questions"
+    url: "/faq"
+    btn_class: "btn-primary"
+    btn_label: "FAQ"
 ---
 
 {% include feature_row id="intro" type="center" %}
