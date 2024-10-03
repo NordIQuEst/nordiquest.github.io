@@ -6,6 +6,8 @@ main:
     url: /publications
   - title: "Upcoming events"
     url: /events
+  - title: "FAQ"
+    url: /faq
   # - title: "Github"
   #   url: https://github.com/FiQCI/fiqci.github.io
   # - title: "About"
