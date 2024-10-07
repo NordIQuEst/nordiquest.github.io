@@ -20,24 +20,18 @@ feature_row:
     url: "/about"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
-  - image_path: /assets/images/events-icon.png
-    title: "Upcoming events"
-    excerpt: "Upcoming events hosted by NordIQuEst"
-    url: "/events"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/posts-icon.png
     title: "Posts and publications"
     excerpt: "Blog posts, publications, and other material of interest"
     url: "/publications"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/posts-icon.png
+  - image_path: /assets/images/events-icon.png
     title: "FAQ"
     excerpt: "Frequently asked questions"
     url: "/faq"
-    btn_class: "btn-primary"
-    btn_label: "FAQ"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 {% include feature_row id="intro" type="center" %}
