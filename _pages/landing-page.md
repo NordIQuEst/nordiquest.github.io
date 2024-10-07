@@ -30,7 +30,7 @@ feature_row:
     title: "FAQ"
     excerpt: "Frequently asked questions"
     url: "/faq"
-    btn_class: "btn-primary"
+    btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
 
