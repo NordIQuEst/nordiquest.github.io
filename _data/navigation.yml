@@ -4,14 +4,12 @@ main:
     url: /about
   - title: "Posts and publications"
     url: /publications
-  - title: "Upcoming events"
-    url: /events
+  # - title: "Upcoming events"
+  #   url: /events
   - title: "FAQ"
     url: /faq
-  # - title: "Github"
-  #   url: https://github.com/FiQCI/fiqci.github.io
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Application Library"
+    url: https://nordiquest.net/application-library/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
