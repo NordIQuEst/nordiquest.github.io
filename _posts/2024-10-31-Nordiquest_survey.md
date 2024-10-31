@@ -1,5 +1,5 @@
 ---
-title: 'NordIQuEst Survey'
+title: 'NordIQuEst User Survey'
 date: 2024-06-12
 permalink: /_posts/2024-10-31-Nordiquest_survey/
 published: true
