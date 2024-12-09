@@ -35,7 +35,5 @@ feature_row:
 ---
 
 {% include feature_row id="intro" type="center" %}
-<p style="text-align: center;"><a href="_posts/2024-10-31-Nordiquest_survey/">User survey open now!</a></p>
-&nbsp;
 {% include feature_row %}
 

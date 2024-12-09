@@ -12,9 +12,9 @@ We're excited to introduce you to the NordIQuEst project, an initiative funded b
  
 As part of our efforts, we kindly invite you to share your insights through a brief and anonymous survey. Your feedback will be instrumental in shaping our approach to an integrated HPC-QC system and aligning it with the needs of industry leaders like yourself. Your feedback will be an essential guide in our project's implementation.
  
-Simply access our quick, anonymous survey by following this link: [https://link.webropolsurveys.com/S/3BEA84BAF0C3C24F](https://link.webropolsurveys.com/S/3BEA84BAF0C3C24F)  
+Simply access our quick, anonymous survey by following this link: the survey is closed, thank you for your help!
 
-It should only take about 10 minutes to complete. Deadline for answers is 2024-11-24.
+It should only take about 10 minutes to complete. Deadline for answers was 2024-11-24.
  
 Your valuable input is the cornerstone of our project's success, and we deeply appreciate your contribution. 
  
