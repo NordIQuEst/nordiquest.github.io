@@ -6,9 +6,10 @@ published: true
 layout: single
 tags:
   - neic
+link: /assets/pdf/survey_report.pdf
 ---
 
-Result
+Results of the 2024 NordiQuest Survey
 
 <embed src="/assets/pdf/survey_report.pdf" type="application/pdf" />
 
