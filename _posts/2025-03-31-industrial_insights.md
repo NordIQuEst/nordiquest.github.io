@@ -23,4 +23,7 @@ To bridge these gaps, industry stakeholders and research initiatives should focu
 
 <embed src="/assets/pdf/nordiquest_survey_report_2.pdf" type="application/pdf" />
 
+<a href="/_posts/2025-01-11-Nordiquest_survey_insights/">Academic survey insights</a>
+
+
 NordIQuEst Project Team
