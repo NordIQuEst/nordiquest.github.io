@@ -6,7 +6,7 @@ published: true
 layout: single
 tags:
   - neic
-link: assets/pdf/nordiquest_survey_report_2.pdf
+#link: assets/pdf/nordiquest_survey_report_2.pdf
 ---
 
 Industrial Perspectives on the Adoption of Quantum Computing: Insights from the NordIQuEst Survey
