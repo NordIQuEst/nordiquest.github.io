@@ -71,7 +71,7 @@ The HPC hub for the NordIQuEst project, giving accessing to quantum computing re
 
 ### QAL9000 quantum computer
 
-Located at the Wallenberg Centre for Quantum Technology at Chalmers, SE, the QAL9000 is a superconducting quantum processor, currently with 5 qubits and will operate at 20 qubits in the near future. 
+Located at the Wallenberg Centre for Quantum Technology at Chalmers, SE, the QAL9000 is an experimental superconducting quantum processor, with 5 qubits being developed and it will operate at 20 qubits in the future. 
 
 ### Helmi quantum computer
 
@@ -79,6 +79,9 @@ Helmi, the first Finnish quantum computer, is operated by VTT. Presently, Helmi 
 
 
 ### VLQ, the Lumi-Q quantum computer
+
+The Lumi-Q VLQ quantum computer was inagurated in September 2025. More information is coming.
+
 <!-- ### Future Resources -->
 
 
